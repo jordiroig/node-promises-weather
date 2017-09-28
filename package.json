@@ -1,0 +1,16 @@
+{
+  "name": "workshop",
+  "version": "1.0.0",
+  "description": "Workshop molon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jordi Roig",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "http": "0.0.0",
+    "promise-first": "^1.0.2"
+  }
+}
